@@ -1,0 +1,50 @@
+.pixel {
+  width: 20px;
+  height: 20px;
+}
+
+.black {
+  background-color: #405FA7;
+}
+
+.white {
+  background-color  :#B2BFE0;
+}
+
+.row {
+  width: 260px;
+  display: flex;
+}
+
+.avatar {
+  height: 260px;
+  width: 260px;
+  border: 20px solid #B2BFE0;
+  border-radius: 10%;
+}
+
+button {
+  width: 240px;
+  height: 30px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: 3px solid #B2BFE0;
+  outline: none;
+  background-color: #B2BFE0;
+  color: #405FA7;
+  font-size: 17px;
+  font-weight: bold;
+  box-shadow: 3px 3px 3px #405FA7;
+}
+
+button:active {
+  background-color: #9eafd9;
+  border-color: #9eafd9;
+  color: #2c4d99;
+  box-shadow: none;
+  text-shadow: 0px 0.4px 2px #666;
+}
+
+h2 {
+  color: #405FA7;
+}
