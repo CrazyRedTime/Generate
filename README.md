@@ -1,1 +1,2 @@
-The web version is here https://pixelsgen.netlify.app
+Генератор рандомных пиксельных изображений, пиксели кликабельны)
+Веб-версия https://pixelsgen.netlify.app
